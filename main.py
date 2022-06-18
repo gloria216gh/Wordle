@@ -2,7 +2,6 @@
 from tkinter import *
 import random
 
-
 import fileinput
 WordleTable = []
 Root = Tk()
